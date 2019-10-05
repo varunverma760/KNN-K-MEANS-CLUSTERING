@@ -1,6 +1,6 @@
 #K-MEANS CLUSTERING
 #working code
-#workin
+#working
 
 #IMPORTING LIBRARIES
 import pandas as pd
